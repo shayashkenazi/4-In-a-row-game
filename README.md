@@ -4,7 +4,8 @@ The application have 2 modes :
 1. player vs player
 2. player vs computer 
 
-For the player vs computer option: 
+For the player vs computer option:
+
 Every time the computer decides what move to make next, it considers all of its possible moves:
 The computer then pretends that each of the moves it has considered has actually taken place. For every possible move, it looks at all the moves the other player could make in response.
 From the computer’s perspective, he needs to minimize its maximum losses and would block the rival from completing a four in a row.
