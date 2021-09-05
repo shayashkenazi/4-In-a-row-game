@@ -1,0 +1,7 @@
+C:\Users\shaya\source\repos\C21 Ex05 Tal 318420601 Shay 208432799\FourInRowGameLogic\obj\Debug\FourInRowGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\shaya\source\repos\C21 Ex05 Tal 318420601 Shay 208432799\FourInRowGameLogic\bin\Debug\FourInRowGameLogic.dll.config
+C:\Users\shaya\source\repos\C21 Ex05 Tal 318420601 Shay 208432799\FourInRowGameLogic\bin\Debug\FourInRowGameLogic.dll
+C:\Users\shaya\source\repos\C21 Ex05 Tal 318420601 Shay 208432799\FourInRowGameLogic\bin\Debug\FourInRowGameLogic.pdb
+C:\Users\shaya\source\repos\C21 Ex05 Tal 318420601 Shay 208432799\FourInRowGameLogic\obj\Debug\FourInRowGameLogic.dll
+C:\Users\shaya\source\repos\C21 Ex05 Tal 318420601 Shay 208432799\FourInRowGameLogic\obj\Debug\FourInRowGameLogic.pdb
+C:\Users\shaya\source\repos\C21 Ex05 Tal 318420601 Shay 208432799\FourInRowGameLogic\obj\Debug\FourInRowGameLogic.csproj.AssemblyReference.cache
