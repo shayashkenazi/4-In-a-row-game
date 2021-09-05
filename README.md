@@ -5,6 +5,7 @@ The application have 2 modes :
 2. player vs computer 
 
 The player vs computer mode is an AI model that the computer calculates the best move to win and blocks the rival when he is close to winning.
+
 ![setting](https://user-images.githubusercontent.com/66257479/132132633-74ed5b6a-613d-4df8-82ef-1716f88daf6d.jpg)
 
 
