@@ -5,7 +5,9 @@ The application have 2 modes :
 2. player vs computer 
 
 The player vs computer mode is a AI mode that the computer is calculate the best move for win
-![setting](https://user-images.githubusercontent.com/66257479/132132574-5ff6f3e6-b337-4216-8dbe-f94f428b4e2e.jpg)
+![setting](https://user-images.githubusercontent.com/66257479/132132633-74ed5b6a-613d-4df8-82ef-1716f88daf6d.jpg)
+
+
 
 
 
